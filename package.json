@@ -1,0 +1,19 @@
+{
+  "name": "new-engen-challenge",
+  "version": "1.0.0",
+  "description": "Mealear's New Engen Challenge",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --mode development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mealeark/new-engen-challenge.git"
+  },
+  "author": "Mealear Khiev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mealeark/new-engen-challenge/issues"
+  },
+  "homepage": "https://github.com/mealeark/new-engen-challenge#readme"
+}
